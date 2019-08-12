@@ -1,0 +1,12 @@
+{
+    "identificador": "CB",
+    "fec_emis": "2019-08-09",
+    "fec_gener_baja": "2019-08-09",
+    "cod_tip_escenario": "01",
+    "txt_serie": "F001",
+    "cod_iden_cb": "C",
+    "cod_cliente_emis": 1,
+    "txt_correlativo": "00000001",
+    "cod_tip_cpe": "01",
+    "txt_descr_mtvo_baja": "ERROR EN EL SISTEMA"
+}
